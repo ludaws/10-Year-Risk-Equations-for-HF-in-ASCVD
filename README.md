@@ -1,0 +1,1 @@
+# 10-Year-Risk-Equations-for-HF-in-ASCVD
