@@ -1,6 +1,6 @@
 # 10-Year-Risk-Equations-for-HF-in-ASCVD
 
-R code for paper developing no reflow risk score for people with ACS.
+R code for paper developing 10-year risk equations for HF among people with atherosclerotic cardiovascular disease.
 
 Dawson LP, Carrington MJ, Haregu T, Nanayakkara S, Jennings G, Dart A, Stub D, Inouye M, Kaye D. Ten-Year Risk Equations for Incident Heart Failure in Established Atherosclerotic Cardiovascular Disease Populations. J Am Heart Assoc. 2024 Jun 4;13(11):e034254. doi: 10.1161/JAHA.124.034254. Epub 2024 May 23. PMID: 38780153; PMCID: PMC11255645.
 
